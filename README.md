@@ -44,7 +44,7 @@
 ## 🚀 PROJECT SYSTEMS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cyber+Defense+System;AI+Threat+Detection;Self+Healing+Security;Music+Streaming+Platform;Netflix+Clone+System" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cyber+Defense+System;AI+Threat+Detection;Self+Healing+Security;Music+Streaming+Platform" />
 </p>
 
 ---
