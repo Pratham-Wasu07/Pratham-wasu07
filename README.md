@@ -1,71 +1,56 @@
-## Hi there 👋
+# Hi, I'm Pratham Wasu
 
-<h1 align="center">⚡ Pratham.exe ⚡</h1>
+Computer Science student interested in **software development, cybersecurity, and AI**.
 
-<!-- Animated Typing -->
+I enjoy building practical projects, exploring new technologies, and learning by solving real problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+System...;Cybersecurity+Mode+Activated;AI+Developer+Online;Building+Futuristic+Systems...;Access+Granted+🚀" />
-</p>
+### About Me
 
-<!-- Animated Wave -->
+* Computer Science student
+* Interested in cybersecurity and software development
+* Exploring AI/ML and backend development
+* Enjoy building projects and participating in hackathons
+* Currently improving my DSA and development skills
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=header"/>
+### Tech Stack
 
----
+**Languages:**
+C · Python · JavaScript
 
-## 🧠 SYSTEM CORE
+**Web & Backend:**
+HTML · CSS · JavaScript · Flask · Django
 
-```diff
-+ Name: Pratham
-+ Role: Cybersecurity + AI Developer
-+ Status: ONLINE 🟢
-+ Mode: Cyberpunk
-```
+**Tools:**
+Git · GitHub · Figma
 
----
+### Projects
 
-## ⚙️ TECH STACK
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github&perline=4" />
-</p>
+**Proactive Cyber Threat Detection System**
+A cybersecurity project focused on real-time network monitoring, threat detection, and proactive response.
 
----
+**Smart Campus Canteen**
+A web application for food ordering, table booking, digital menus, and canteen management.
 
-## 📊 LIVE DATA STREAM 
+**Music Web App**
+A music platform with playlists, search, artist information, and an interactive music player.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
+### Currently Learning
 
----
+* Data Structures & Algorithms
+* Cybersecurity
+* AI/ML
+* Backend Development
+* Computer Networks
 
-## 🚀 PROJECT SYSTEMS
+### Goals
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Cyber+Defense+System;AI+Threat+Detection;Self+Healing+Security;Music+Streaming+Platform" />
-</p>
+Build meaningful projects, contribute to open source, participate in hackathons, and continuously improve my development skills.
 
----
+### Connect
 
-## 🌐 CONNECT
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
+[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
 
 ---
 
-<!-- Footer Wave -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer"/>
-
----
-
-## ⚡ FINAL LINE
-
-> "System Stable. No Bugs Found... Probably."
+*Build. Learn. Improve.*
 
