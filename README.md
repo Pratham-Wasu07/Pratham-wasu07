@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=180&section=header&text=Pratham%20Wasu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-### Computer Science Student • Developer • Cybersecurity Enthusiast
-
-*Building things, breaking things, and learning how they work.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=200&section=header&text=Hi%20Everyone..&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&descColor=ffffff"/>
 
 </div>
+
 
 ---
 
@@ -47,12 +44,20 @@ A web application for food ordering, table booking, digital menus, and canteen m
 
 **Tech:** HTML · CSS · JavaScript · Firebase
 
-### Music Web App
+### Rock Paper Scissors — Computer Vision
 
-A music platform concept with playlists, search, artist information, and an interactive music player.
+A computer-vision-based Rock Paper Scissors game where the player's hand gesture is detected through a camera and recognized as Rock, Paper, or Scissors.
 
-**Tech:** HTML · CSS · JavaScript
+Features:
 
+Real-time hand gesture detection
+Camera-based gameplay
+Computer opponent
+Automatic gesture recognition
+Score tracking
+Interactive UI
+
+Tech: Python · OpenCV · Computer Vision · JavaScript
 ---
 
 ## Currently Learning
@@ -64,29 +69,6 @@ A music platform concept with playlists, search, artist information, and an inte
 `Computer Networks`
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham-Wasu07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
